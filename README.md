@@ -1,4 +1,4 @@
-Codecademy Project Choose Your Own Adventure: Wilderness Escape (guided)
+# Codecademy Project Choose Your Own Adventure: Wilderness Escape (guided)
 Made by Anton Makeev (at-mak@mail.ru)
 
 Plarform info: python 3.6.9.
